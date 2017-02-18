@@ -6,6 +6,7 @@ import { LoginPage } from '../pages/login/login';
 import { ResetPasswordPage } from '../pages/resetpassword/resetpassword';
 import { SignupPage } from '../pages/signup/signup';
 import { AuthData } from '../providers/auth-data';
+import { Facebook } from 'ionic-native';
 
 @NgModule({
   declarations: [
@@ -26,6 +27,6 @@ import { AuthData } from '../providers/auth-data';
     SignupPage,
     ResetPasswordPage
   ],
-  providers: [{provide: ErrorHandler, useClass: IonicErrorHandler}, [AuthData]]
+  providers: [{provide: ErrorHandler, useClass: IonicErrorHandler}, [AuthData], [Facebook] ]
 })
 export class AppModule {}

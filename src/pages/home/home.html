@@ -1,7 +1,7 @@
 <ion-header>
-  <ion-navbar>
-    <ion-title>
-      Home Page
+  <ion-navbar color="secondary">
+    <ion-title align="center">
+      Welcome Home!
     </ion-title>
     <ion-buttons end>
       <button ion-button icon-only (click)="logOut()">
@@ -12,8 +12,7 @@
 </ion-header>
 
 <ion-content padding>
-  The world is your oyster.
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
-  </p>
+  <button type="button" name="button" (click)="fblogin()">Login</button>
+  <button type="button" name="button" (click)="fbgetdetails()">get Details</button>
+  <button type="button" name="button" (click)="fblogout()">Logout</button>
 </ion-content>

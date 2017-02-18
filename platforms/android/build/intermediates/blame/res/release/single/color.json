@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/res/merged/release/color/com_facebook_send_button_text_color.xml",
+        "source": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/res/merged/release/color/com_facebook_button_text_color.xml",
+        "source": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/color/com_facebook_button_text_color.xml"
+    }
+]

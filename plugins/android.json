@@ -1,0 +1,35 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ionicframework.firelogin753893"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ionicframework.firelogin753893"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ionicframework.firelogin753893"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ionicframework.firelogin753893"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.ionicframework.firelogin753893"
+        },
+        "cordova-plugin-facebook4": {
+            "APP_ID": "959906677478869",
+            "APP_NAME": "Lets-Talk",
+            "PACKAGE_NAME": "com.ionicframework.firelogin753893"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ionicframework.firelogin753893"
+        }
+    },
+    "dependent_plugins": {}
+}

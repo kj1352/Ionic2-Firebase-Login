@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4/com_facebook_button_icon_blue.png",
+        "source": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/drawable-xxhdpi-v4/com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4/messenger_bubble_small_blue.png",
+        "source": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/drawable-xxhdpi-v4/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4/com_facebook_favicon_white.png",
+        "source": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/drawable-xxhdpi-v4/com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4/messenger_bubble_small_white.png",
+        "source": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/drawable-xxhdpi-v4/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png",
+        "source": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4/messenger_bubble_large_white.png",
+        "source": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/drawable-xxhdpi-v4/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4/com_facebook_button_icon_white.png",
+        "source": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/drawable-xxhdpi-v4/com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4/messenger_button_send_round_shadow.png",
+        "source": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/drawable-xxhdpi-v4/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4/messenger_bubble_large_blue.png",
+        "source": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/drawable-xxhdpi-v4/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4/com_facebook_button_send_icon_white.png",
+        "source": "/home/kj1352/Desktop/Fire-Login/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/drawable-xxhdpi-v4/com_facebook_button_send_icon_white.png"
+    }
+]
